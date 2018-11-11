@@ -1,0 +1,9 @@
+C:\Test\BattleShip\BattleShip.Console\Battleship.Contracts\bin\Debug\netcoreapp2.1\Battleship.Contracts.deps.json
+C:\Test\BattleShip\BattleShip.Console\Battleship.Contracts\bin\Debug\netcoreapp2.1\Battleship.Contracts.dll
+C:\Test\BattleShip\BattleShip.Console\Battleship.Contracts\bin\Debug\netcoreapp2.1\Battleship.Contracts.pdb
+C:\Test\BattleShip\BattleShip.Console\Battleship.Contracts\obj\Debug\netcoreapp2.1\Battleship.Contracts.csprojAssemblyReference.cache
+C:\Test\BattleShip\BattleShip.Console\Battleship.Contracts\obj\Debug\netcoreapp2.1\Battleship.Contracts.csproj.CoreCompileInputs.cache
+C:\Test\BattleShip\BattleShip.Console\Battleship.Contracts\obj\Debug\netcoreapp2.1\Battleship.Contracts.AssemblyInfoInputs.cache
+C:\Test\BattleShip\BattleShip.Console\Battleship.Contracts\obj\Debug\netcoreapp2.1\Battleship.Contracts.AssemblyInfo.cs
+C:\Test\BattleShip\BattleShip.Console\Battleship.Contracts\obj\Debug\netcoreapp2.1\Battleship.Contracts.dll
+C:\Test\BattleShip\BattleShip.Console\Battleship.Contracts\obj\Debug\netcoreapp2.1\Battleship.Contracts.pdb
